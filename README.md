@@ -31,9 +31,9 @@
     </p>
     <h2>Documentation</h2>
      <p>
-        For detailed documentation, please refer to the following link: 
-        <a href="https://docs.google.com/document/d/1gQ8TXt0PTedbMArycDJYSmhjU3GlMauhiY_khn70DBE/edit?usp=sharing" target="_blank">Lung Cancer Detection Documentation</a>
-     </p>
+        For detailed explanation please refer to the documentation
+        
+</p>
     
 </body>
 </html>
